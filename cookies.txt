@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+m.onlinetexteditor.com	TRUE	/	FALSE	1999999999	X-Mapping-pkckhnep	83B39319D65A853A327555DE8E856748
+www.onlinetexteditor.com	TRUE	/	FALSE	1999999999	X-Mapping-pkckhnep	76777178B2EE3001502BB08553777F1D
+
